@@ -1,0 +1,20 @@
+.sing{
+    text-align: center;
+    color:blue ;
+}
+.ph 
+{
+    margin-left:550px;
+    margin-top: 30px;
+}
+.btn{
+    text-decoration: none;
+    color: black;
+    
+}
+button
+{
+    padding: 5px;
+    background-color: green;
+    border-radius: 50%;
+}

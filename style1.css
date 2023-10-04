@@ -1,0 +1,20 @@
+.MCQ{
+    display: block;
+    border: 5px solid red;
+    margin: 10px 70px 20px 70px;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+}
+button{
+    padding: 10px;
+    margin: 10px 70px 20px 70px;
+    background-color: blanchedalmond;
+    
+}
+.btn
+{
+    text-decoration: none;
+    color:blue ;
+}
